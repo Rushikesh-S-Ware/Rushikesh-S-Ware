@@ -20,9 +20,10 @@
 ## 💫 About Me
 <div align="center">
 
-Graduate student with strong foundations in **Data Analytics, Machine Learning, and Cloud**.  
-Hands-on experience building **ETL pipelines, analytics dashboards, NLP systems, and RAG-based applications**.  
-Former **Programmer Analyst @ Cognizant**, focused on clean, reproducible, and scalable solutions.
+Graduate student in Data Analytics Engineering with strong foundations in **Data Analytics, Machine Learning, and Cloud**.  
+Hands-on experience building **ETL pipelines, analytics dashboards, NLP systems, and RAG-based applications** for real-world datasets.  
+Former **Programmer Analyst @ Cognizant**, focused on **clean, reproducible, and scalable data-driven systems**.
+
 
 </div>
 
@@ -30,86 +31,34 @@ Former **Programmer Analyst @ Cognizant**, focused on clean, reproducible, and s
 
 <div align="center">
 
-## 🚀 Featured Projects
-<b>Click a project title to open the repository</b> · Some academic/capstone work may be private
+## 🚀 Selected Work
+> Highlighted academic, capstone, and applied projects.  
+> Full implementations are available in pinned repositories. Some work is private.
 
-</div>
+🌍 **ClimateGPT Nexus** — *Graduate Capstone (Private)*  
+LLM-powered climate analytics platform using **RAG + Model Context Protocol (MCP)** for grounded insights on deforestation, emissions, and carbon data.
 
-<table>
-<tr>
+🧠 **Text-to-SQL Chatbot**  
+Natural language → SQL generation with schema awareness and entity resolution over structured datasets.
 
-<td width="50%">
-<h3>🌍 ClimateGPT Nexus</h3>
-<b>Capstone Project · Private</b><br><br>
+📚 **RAG-Based Analytical Chatbots**  
+Retrieval-augmented QA systems focused on hallucination reduction and task success rate.
 
-LLM-powered analytics platform for climate, deforestation, and carbon insights.  
-Uses <b>RAG</b> + <b>Model Context Protocol (MCP)</b> for grounded, explainable answers.<br><br>
+🌉 **Bridge Condition Predictive Analytics**  
+Predictive modeling to analyze infrastructure health using real-world bridge datasets with interpretable ML.
 
-<b>Tech:</b> Python · NLP · RAG · Vector DB · MCP · Data Pipelines  
-<br><br>
-🟡 Repo private (academic capstone)
-</td>
+📄 **NLP Resume Screening System**  
+NER-based extraction of skills and experience with structured resume–job matching.
 
-<td width="50%">
-<a href="https://github.com/Rushikesh-S-Ware/NLP---SQL-Transformer-">
-<h3>🧠 Text-to-SQL Chatbot</h3>
-</a>
+🔐 **Cybersecurity Risk Modeling (KEV)**  
+Risk analysis and classification of vulnerabilities likely to become CISA Known Exploited Vulnerabilities.
 
-Natural language → SQL query generation over structured datasets with schema awareness.<br><br>
+📊 **Public Health Analytics – Drug Overdose**  
+Exploratory and predictive analytics on public health overdose datasets.
 
-<b>Tech:</b> Python · Transformers · spaCy · SQL  
-<br><br>
-🔗 Open repo
-</td>
+⚽ **FIFA 22 Data Analysis**  
+Exploratory data analysis and visualization on player and performance statistics.
 
-</tr>
-
-<tr>
-
-<td width="50%">
-<h3>📚 RAG-Based Chatbot Systems</h3>
-
-Retrieval-Augmented Generation pipelines focused on hallucination reduction and task accuracy.<br><br>
-
-<b>Tech:</b> Python · SentenceTransformers · FAISS · ChromaDB  
-</td>
-
-<td width="50%">
-<h3>🌉 Bridge Condition Analytics</h3>
-
-Predictive modeling to analyze bridge health and maintenance drivers using real infrastructure data.<br><br>
-
-<b>Tech:</b> Python · Pandas · scikit-learn  
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-<h3>📄 NLP Resume Screening</h3>
-
-NER-based extraction of skills and experience with structured job matching.<br><br>
-
-<b>Tech:</b> Python · spaCy · ML  
-</td>
-
-<td width="50%">
-<a href="https://github.com/Rushikesh-S-Ware/Cybersecurity-Risk-Modeling--KEV-">
-<h3>🔐 Cybersecurity Risk Modeling (KEV)</h3>
-</a>
-
-Models vulnerabilities likely to become CISA Known Exploited Vulnerabilities (KEV).<br><br>
-
-<b>Tech:</b> R · Statistical Modeling · Risk Analytics  
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ## 🛠️ Tech Stack
 
