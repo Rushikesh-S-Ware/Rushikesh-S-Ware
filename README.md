@@ -10,6 +10,7 @@
 ### 💻 Data Engineering · Analytics · ML · NLP  
 ### 🌍 Building intelligent, data-grounded systems
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](rushikesh-s-ware.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rushikesh-ware10)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:rushikeshsware@gmail.com)
 
