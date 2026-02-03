@@ -42,14 +42,8 @@ LLM-powered climate analytics platform using **RAG + Model Context Protocol (MCP
 🧠 **Text-to-SQL Chatbot**  
 Natural language → SQL generation with schema awareness and entity resolution over structured datasets.
 
-📚 **RAG-Based Analytical Chatbots**  
-Retrieval-augmented QA systems focused on hallucination reduction and task success rate.
-
 🌉 **Bridge Condition Predictive Analytics**  
 Predictive modeling to analyze infrastructure health using real-world bridge datasets with interpretable ML.
-
-📄 **NLP Resume Screening System**  
-NER-based extraction of skills and experience with structured resume–job matching.
 
 🔐 **Cybersecurity Risk Modeling (KEV)**  
 Risk analysis and classification of vulnerabilities likely to become CISA Known Exploited Vulnerabilities.
