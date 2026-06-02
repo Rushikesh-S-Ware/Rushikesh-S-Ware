@@ -2,7 +2,7 @@
 
 **Data / ML / AI Engineer** — based in Northern VA. MS Data Analytics Engineering, George Mason University (Dec 2025, GPA 3.90). 2 years as Programmer Analyst at Cognizant.
 
-I build production-grade data and ML systems: LLM-powered analytics platforms with RAG and MCP, transformer-based NLP-to-SQL, cost-sensitive risk models on AWS, and Spark/Glue pipelines on 20-year public health datasets.
+I build production-grade data and ML systems: MCP servers for LLM tool use, transformer-based NLP-to-SQL, cost-sensitive risk models on AWS, and end-to-end batch pipelines on Airflow + PySpark + dbt.
 
 📍 Fairfax, VA · Open to Data Engineer, ML Engineer, AI Engineer, Data Scientist roles (US-based)
 📧 rushikeshsware@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/rushikesh-ware10) · 🤗 [Hugging Face](https://huggingface.co/Rushikesh-Ware) · 🌐 [Portfolio](https://rushikesh-s-ware.github.io/portfolio/)
@@ -13,11 +13,11 @@ I build production-grade data and ML systems: LLM-powered analytics platforms wi
 
 | Project | Stack | Result |
 |---|---|---|
-| **[Agentic AI Analytics Platform](https://github.com/Rushikesh-S-Ware/agentic-ai-analytics)** | Python, FastAPI, Claude API, MCP, RAG (FAISS/ChromaDB), Docker, CI/CD | 500K+ records · 90% explanation accuracy |
-| **[NLP-to-SQL Transformer (BART)](https://github.com/Rushikesh-S-Ware/nlp-sql-transformer)** | PyTorch, BART, ONNX, FastAPI, Kubernetes · [Live demo →](https://huggingface.co/spaces/Rushikesh-S-Ware/NLP-SQL-Transformer) | 45.6% exact-match on Spider · 60% inference speedup |
-| **[Cybersecurity Risk Triage (KEV)](https://github.com/Rushikesh-S-Ware/cve-kev-risk-ml)** | XGBoost, MLflow, AWS · 250K+ CVE/CVSS records | AUC 0.9957 · 100% KEV recall |
+| **[MCP-Forest / Nexus](https://github.com/Rushikesh-S-Ware/MCP-Forest)** | Python, Model Context Protocol, SQLite, Docker, httpx | Production MCP server · 12 tools · 165+ countries · 24 years of Forest Watch data |
+| **[NYC Taxi Data Pipeline](https://github.com/Rushikesh-S-Ware/nyc-taxi-data-pipeline)** | Airflow, PySpark, dbt, Postgres, Docker | ~100M trips/year · incremental dbt marts · daily DAG |
+| **[NLP-to-SQL Transformer (BART)](https://github.com/Rushikesh-S-Ware/nlp-sql-transformer)** | PyTorch, BART, ONNX, FastAPI · [Live demo →](https://huggingface.co/spaces/Rushikesh-S-Ware/NLP-SQL-Transformer) | 45.6% exact-match on Spider · 60% inference speedup |
+| **[Cybersecurity Risk Triage (KEV)](https://github.com/Rushikesh-S-Ware/cve-kev-risk-ml)** | XGBoost, MLflow, R, AWS · 250K+ CVE/CVSS records | AUC 0.9957 · 100% KEV recall |
 | **[Public Health Analytics on AWS](https://github.com/Rushikesh-S-Ware/public-health-aws-pipeline)** | Glue, S3, Lambda, EMR, Spark, Redshift, Tableau | 20 years · 1999–2018 HHS data |
-| **[Infrastructure Risk Forecasting](https://github.com/Rushikesh-S-Ware/bridge-condition-forecasting)** | Python, R, time-series, statistical modeling | Real-world bridge condition data |
 | **[MNIST CNN Classifier](https://github.com/Rushikesh-S-Ware/Deep-Learning-for-Digit-Recognition)** | PyTorch, CNN, Gradio · [Live demo →](https://huggingface.co/spaces/Rushikesh-S-Ware/Deep-Learning-for-Digit-Recognition) | >97% test accuracy |
 
 ---
@@ -26,10 +26,10 @@ I build production-grade data and ML systems: LLM-powered analytics platforms wi
 
 **Languages** Python · SQL · R · Java
 **Data & ML** PyTorch · scikit-learn · XGBoost · Transformers (BART) · spaCy · Pandas · NumPy · MLflow
-**LLM Systems** Claude API · RAG · MCP · FAISS · ChromaDB · LangChain
+**LLM Systems** Claude API · Model Context Protocol (MCP) · RAG · FAISS · ChromaDB · LangChain
+**Data Engineering** Apache Airflow · Apache Spark / PySpark · dbt · Hadoop · PostgreSQL · MySQL · MongoDB · BigQuery
 **Cloud & Infra** AWS (Glue, S3, Lambda, EMR, Redshift) · GCP (BigQuery) · Docker · Kubernetes · GitHub Actions
-**Data Engineering** Apache Spark · Hadoop · Airflow · PostgreSQL · MySQL · MongoDB · BigQuery
-**BI & Viz** Tableau · Power BI · Matplotlib · Plotly
+**BI & Viz** Tableau · Power BI · Streamlit · Matplotlib · Plotly
 
 ---
 
@@ -39,7 +39,7 @@ I build production-grade data and ML systems: LLM-powered analytics platforms wi
 Production data pipelines and ETL in Python, SQL, GCP/BigQuery. CI/CD with GitHub Actions. Reproducible, scalable systems for enterprise clients.
 
 **MS Data Analytics Engineering — George Mason University** (Dec 2025, GPA 3.90)
-Capstone: agentic AI platform for climate analytics using Claude API, MCP, and RAG.
+Capstone: production MCP server delivering 24 years of Global Forest Watch data through natural conversation with Claude.
 
 ---
 
