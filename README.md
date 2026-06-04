@@ -13,7 +13,7 @@ I build production-grade data and ML systems: MCP servers for LLM tool use, tran
 
 | Project | Stack | Result |
 |---|---|---|
-| **[MCP-Forest](https://github.com/Rushikesh-S-Ware/MCP-Forest1)** | Python, Model Context Protocol, SQLite, Docker, httpx | Production MCP server · 12 tools · 165+ countries · 24 years of Forest Watch data |
+| **[MCP-Forest](https://github.com/Rushikesh-S-Ware/MCP-Forest1)** | Python, Model Context Protocol, SQLite, Docker, httpx . [Live demo →](https://mcp-forest1.streamlit.app/) | Production MCP server · 12 tools · 165+ countries · 24 years of Forest Watch data |
 | **[NYC Taxi Data Pipeline](https://github.com/Rushikesh-S-Ware/nyc-taxi-data-pipeline)** | Airflow, PySpark, dbt, Postgres, Docker | ~100M trips/year · incremental dbt marts · daily DAG |
 | **[NLP-to-SQL Transformer (BART)](https://github.com/Rushikesh-S-Ware/nlp-sql-transformer)** | PyTorch, BART, ONNX, FastAPI · [Live demo →](https://huggingface.co/spaces/Rushikesh-S-Ware/NLP-SQL-Transformer) | 45.6% exact-match on Spider · 60% inference speedup |
 | **[Cybersecurity Risk Triage (KEV)](https://github.com/Rushikesh-S-Ware/cve-kev-risk-ml)** | XGBoost, MLflow, R, AWS · 250K+ CVE/CVSS records | AUC 0.9957 · 100% KEV recall |
